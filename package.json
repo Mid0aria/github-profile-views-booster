@@ -1,0 +1,32 @@
+{
+    "name": "github-profile-view-booster",
+    "version": "1.0.0",
+    "description": "Github profile counter booster built using nodejs and the axios module.",
+    "main": "booster.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mid0aria/github-profile-views-booster.git"
+    },
+    "keywords": [
+        "github",
+        "profile",
+        "views",
+        "boost",
+        "booster",
+        "profilebooster",
+        "viewsbooster"
+    ],
+    "author": "mido",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Mid0aria/github-profile-views-booster/issues"
+    },
+    "homepage": "https://github.com/Mid0aria/github-profile-views-booster#readme",
+    "dependencies": {
+        "axios": "^1.6.8",
+        "chalk": "^4.1.2"
+    }
+}
